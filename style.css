@@ -66,6 +66,10 @@ body {
     align-content: center;
     color: #232323;
 }
+.header .header-nav .header-container .header-flag img{
+    width: 42px;
+    height: 34px;
+}
 .header .header-nav .header-container .header-cart {
     color: #efefef;
     display: flex;
